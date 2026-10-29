@@ -36,7 +36,7 @@ GET /posts/{id}
 
 ## Example request
 ```bash
-curl -X GET "[BASE_URL]/posts/1"
+curl -X GET "https://jsonplaceholder.typicode.com/posts/1"
 ```
 ---
 ## Response
