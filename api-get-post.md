@@ -54,7 +54,7 @@ curl -X GET "https://jsonplaceholder.typicode.com/posts/1"
 | Code | Meaning | Example id |
 | :--- | :--- | :--- |
 | 200 | Success | 1 |
-| 404 | [NEEDS INFO] | 9999 |
+| 404 | Not Found | 9999 |
 ----
 
 
