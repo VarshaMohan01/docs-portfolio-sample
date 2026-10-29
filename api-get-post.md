@@ -31,7 +31,7 @@ GET /posts/{id}
 ## Path parameters				
 | Name | Type           | Required       | Description    | Example values |
 | :--- | :------------- | :------------- | :------------- | :------------- |
-| id   | \[NEEDS INFO\] | \[NEEDS INFO\] | \[NEEDS INFO\] | 1, 9999        |
+| id   | integer | Yes | ID of the post to return | 1, 9999        |
 ---
 
 ## Example request
@@ -43,10 +43,10 @@ curl -X GET "https://jsonplaceholder.typicode.com/posts/1"
 
 | Field  | Type           | Description    |
 | :----- | :------------- | :------------- |
-| id     | \[NEEDS INFO\] | \[NEEDS INFO\] |
-| title  | \[NEEDS INFO\] | \[NEEDS INFO\] |
-| body   | \[NEEDS INFO\] | \[NEEDS INFO\] |
-| userId | \[NEEDS INFO\] | \[NEEDS INFO\] |
+| id     | integer| ID of the post |
+| title  | string | Title of the post |
+| body   | string | Text of the post |
+| userId | string | ID of a user associated with the post |
 
 -----
 ## Status codes
