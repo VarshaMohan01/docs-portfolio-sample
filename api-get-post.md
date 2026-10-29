@@ -61,13 +61,13 @@ curl -X GET "https://jsonplaceholder.typicode.com/posts/1"
 ## Example response
 ### Status: 200
 ```json
-[NEEDS INFO]
+200
 ```
 
 ## Example error response
 ### Status: 404
 ```json
-[NEEDS INFO]
+404
 ```
 
 ## Open items
