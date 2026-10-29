@@ -1,6 +1,6 @@
 # Technical Writing Samples
 
-I'm a technical writer with [X] years of experience in SaaS documentation.
+I'm a technical writer with 4+ years of experience in SaaS documentation.
 These samples show how I work: docs as code, AI-assisted drafting with human
 review, and in-app guidance.
 
@@ -12,7 +12,7 @@ no employer content.
 | Sample | What it shows | Link |
 |--------|---------------|------|
 | API reference: GET /posts/{id} | API documentation, Markdown | [api-get-post.md](api-get-post.md) |
-| Pull request for that doc | GitHub workflow, review, merge | [View PR]([paste-your-PR-link](https://github.com/VarshaMohan01/docs-portfolio-sample/pull/1)) |
+| Pull request for that doc | GitHub workflow, review, merge | [View PR](https://github.com/VarshaMohan01/docs-portfolio-sample/pull/1) |
 | In-app guide and UX copy | Tooltips, announcements, JSON | [in-app-guide.md](in-app-guide.md) |
 
 ## How I work with AI
